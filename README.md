@@ -28,6 +28,16 @@ http://localhost:8080
 ```
 Username: Root Password: p4ssw0rd!
 
+
+
+## Wordpress and MySQL data
+
+Wordpress and MySQL database will be saved in the folders wp-content and db-data directories. 
+
+Backup your wordpress site by making a copy of these directories to a backup device or service.
+
+To restart your wordpress installation back to the initial state just delete these folders.
+
 ## To Tear Down
 ```
 $ docker-compose down --volumes
