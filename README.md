@@ -2,6 +2,8 @@
 
 Use Docker to setup Wordpress, MySQL & PHPMyAdmin
 
+## Warning this has never been tested and should not be used in production. This code is for educational purposes only.
+
 Get Docker Desktop for your system: https://www.docker.com/products/docker-desktop if you don't have it running already.
 
 Git clone this project and run:
